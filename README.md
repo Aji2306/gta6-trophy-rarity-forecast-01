@@ -1,8 +1,8 @@
 # GTA VI Trophy Rarity Forecast — E/N Decomposition Model
 
-[![Status](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
-[![Entries](https://make.fun/badge/gta6-trophy-rarity-forecast-01-entries.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
-[![Prize](https://make.fun/badge/gta6-trophy-rarity-forecast-01-prize.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01)
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/Aji2306/gta6-trophy-rarity-forecast-01/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/Aji2306/gta6-trophy-rarity-forecast-01/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
 
 An entry for the [make.fun](https://make.fun) competition **gta6-trophy-rarity-forecast-01**: forecasting every PlayStation 5 trophy earn rate for *Grand Theft Auto VI* on Exophase at the target checkpoint as five quantiles per trophy.
 
